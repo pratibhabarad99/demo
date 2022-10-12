@@ -3,7 +3,7 @@
   <h1 class="mb-3">Login google</h1>
 <form>
   <div class="form-group mb-2">
-    <label for="exampleInputEmail1">Enter email </label>
+    <label for="exampleInputEmail1">Enter email for new</label>
     <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email">
   </div>
   <div class="form-group mb-2">
